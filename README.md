@@ -1,0 +1,2 @@
+# T-058-ParkIt-CV-Integrated-Smart-Parking-Allocation-and-Vehicle-Management-System-
+ParkIt, developed by Team KiloByte, is an AI-driven smart parking platform that replaces costly slot-level IoT sensors with existing CCTV infrastructure. Using computer vision, dynamic slot allocation, and a mobile app, it efficiently manages entry, exit, and real-time occupancy monitoring at a fraction of traditional hardware costs.
